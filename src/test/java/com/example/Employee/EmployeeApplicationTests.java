@@ -11,6 +11,7 @@ class EmployeeApplicationTests {
 		print("hi added new update")
 		print("hi added new update2")
 		print("hi added new update3")
+		print("hi added new update4")
 	}
 
 }

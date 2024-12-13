@@ -10,6 +10,7 @@ class EmployeeApplicationTests {
 	void contextLoads() {
 		print("hi added new update")
 		print("hi added new update2")
+		print("hi added new update3")
 	}
 
 }

@@ -9,6 +9,7 @@ class EmployeeApplicationTests {
 	@Test
 	void contextLoads() {
 		print("hi added new update")
+		print("hi added new update2")
 	}
 
 }
